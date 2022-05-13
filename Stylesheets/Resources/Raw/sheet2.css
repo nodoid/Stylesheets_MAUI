@@ -1,0 +1,10 @@
+﻿^contentpage {
+	background-color: blue;
+}
+
+.mainHeading {
+	font-size: 28px;
+	font-style: italic;
+	color: pink;
+	text-align: left;
+}
